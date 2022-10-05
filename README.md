@@ -6,7 +6,6 @@ Change the keys value to your test keys and run the script in the browser consol
 
 #### Note: Install Absolute Enable Right Click extension in your browser to use the script.
 
-https://github.com/sauravhathi/lpu-cse/blob/master/shortway/shortUrl.md
 
   1. Open the test in your browser
   2. Open the console in your browser
