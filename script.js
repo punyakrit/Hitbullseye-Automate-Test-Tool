@@ -19,4 +19,4 @@ const inter = setInterval(
     }
   }
   // 2 seconds(2000 milliseconds) for each question
-,1000);
+,100);
